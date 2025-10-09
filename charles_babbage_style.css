@@ -1,0 +1,22 @@
+body{
+    background-color: grey;
+
+
+}
+h1{
+    background-color: blue;
+    color:white;
+    text-align:center;
+    padding:30px;
+}
+div{
+    background-color: white;
+    padding:10px;
+    margin:20px;
+}
+footer{
+    background-color: blue;
+    color: white;
+    text-align:center;
+    padding:10px;
+}
