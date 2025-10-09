@@ -1,0 +1,20 @@
+body{
+    background-color: lightgreen;
+}
+div{
+    background-color: white;
+    padding:30px;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: lightgreen;
+    width: 400px;
+}
+select{
+    width: 250px;
+}
+textarea{
+    width: 400px;
+}
